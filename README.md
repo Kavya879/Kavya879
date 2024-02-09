@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavya+Agarwal!;" />
 </h1>
 # 💫 About Me:
-- 🔭 I’m currently working on **Experimenting with random codes<br><br>- 🌱 I’m currently learning C,C++<br><br>- 💬 Ask me about C,C++<br><br>- 📫 How to reach me agarwal.kavya1405@gmail.com
+- 🔭 I’m currently working on Experimenting with random codes<br><br>- 🌱 I’m currently learning C,C++<br><br>- 💬 Ask me about C,C++<br><br>- 📫 How to reach me agarwal.kavya1405@gmail.com
 
 
 ## 🌐 Socials:
