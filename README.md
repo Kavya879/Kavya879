@@ -15,8 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kavya879&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya879&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<img src="https://myreadme.vercel.app/api/embed/Kavya879?panels=commitgraph" alt="reimaginedreadme" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavya879&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -24,7 +27,13 @@
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### Now Playing
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+
+
 [![](https://visitcount.itsvg.in/api?id=Kavya879&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 ![snake gif](https://github.com/Kavya879/Kavya879/blob/output/github-contribution-grid-snake.svg)
 
