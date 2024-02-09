@@ -26,5 +26,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Kavya879&icon=1&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Kavya879/Kavya879/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Kavya879/Kavya879/blob/output/github-contribution-grid-snake.svg)
 
