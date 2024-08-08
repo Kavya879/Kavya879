@@ -6,7 +6,6 @@
 
 
 ## 🌐 Socials:
-[![Website]](https://kay-ml.github.io/profile/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyaagarwal1405) 
 
 # 💻 Tech Stack:
